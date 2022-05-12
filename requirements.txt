@@ -22,8 +22,9 @@ Mako==1.2.0
 MarkupSafe==2.1.1
 orjson==3.6.8
 passlib==1.7.4
-psycopg2 @ file:///Users/runner/miniforge3/conda-bld/psycopg2-split_1640944566233/work
-psycopg2-binary @ file:///home/conda/feedstock_root/build_artifacts/psycopg2-split_1640944520001/work/psycopg2-binary
+pip==22.0.4
+psycopg2==2.9.3
+psycopg2-binary==2.9.3
 pyasn1==0.4.8
 pycodestyle==2.8.0
 pycparser==2.21
@@ -34,6 +35,7 @@ python-multipart==0.0.5
 PyYAML==6.0
 requests==2.27.1
 rsa==4.8
+setuptools==61.2.0
 six==1.16.0
 sniffio==1.2.0
 SQLAlchemy==1.4.36
@@ -46,3 +48,4 @@ uvicorn==0.17.6
 uvloop==0.16.0
 watchgod==0.8.2
 websockets==10.3
+wheel==0.37.1
